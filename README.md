@@ -2,12 +2,17 @@
 
 pylodger is a prototype python application to store and manage data for lodges/hotels.
 
-UNDER DEVELOPMENT
+Made for school project lol
 
+UNDER DEVELOPMENT...
 
-## Modules/Packages Used
-
- - [CustomTkinter]()
+# Installation
+- Make sure `Python` is installed
+- Install `customtkinter`
+```powershell
+  pip install customtkinter
+```
+- Download and extract the folder; run the `main.py` file
  
 
 
